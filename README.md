@@ -6,7 +6,8 @@ Sources
 - Boundaries. CSO Electoral Divisions, National Statistical Boundaries 2022, generalised to 20 metres. Tailte Éireann and the Central Statistics Office.
 - Census 2022 Small Area Population Statistics by electoral division. Central Statistics Office.
 - Pobal HP Deprivation Index 2022 by electoral division. Pobal.
+- Road distance to the nearest GP, pharmacy and emergency department. Measuring Distance to Services in Ireland 2026, table MDSI02, mean distance of persons in residential dwellings, by electoral division. Central Statistics Office.
 
 Shapes are simplified for display. Figures are totals by area and hold nothing about any person.
 
-All three are published as open data. Licence terms are being confirmed before any paid release.
+All four are published as open data. Licence terms are being confirmed before any paid release.
